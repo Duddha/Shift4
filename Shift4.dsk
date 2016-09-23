@@ -1,56 +1,37 @@
 [Closed Files]
-File_0=SourceModule,'C:\Programs\FastMM\FastMM4.pas',0,1,8834,1,8849,0,0
-File_1=SourceModule,'D:\DATA\DELPHI\Common Files\DBChangePassword.pas',0,1,1,1,1,0,0
-File_2=SourceModule,'D:\DATA\DELPHI\Shift 4\uTestSchedule.pas',0,1,1,1,1,0,0
-File_3=SourceModule,'D:\DATA\DELPHI\Common Files\Report_Excel.pas',0,1,1,1,1,0,0
-File_4=SourceModule,'D:\DATA\DELPHI\Shift 4\uCalculateScheduleAsCopy.pas',0,1,1,1,1,0,0
-File_5=SourceModule,'D:\DATA\DELPHI\Shift 4\uHoliday.pas',0,1,1,1,1,0,0
+File_0=SourceModule,'D:\DATA\DELPHI\Shift 4\Common Files\VersionInfo.pas',0,1,1,1,1,0,0
+File_1=SourceModule,'C:\Programs\FastMM\FastMM4.pas',0,1,8834,1,8849,0,0
+File_2=SourceModule,'D:\DATA\DELPHI\Common Files\DBChangePassword.pas',0,1,1,1,1,0,0
+File_3=SourceModule,'D:\DATA\DELPHI\Shift 4\uTestSchedule.pas',0,1,1,1,1,0,0
+File_4=SourceModule,'D:\DATA\DELPHI\Common Files\Report_Excel.pas',0,1,1,1,1,0,0
+File_5=SourceModule,'D:\DATA\DELPHI\Shift 4\uCalculateScheduleAsCopy.pas',0,1,1,1,1,0,0
+File_6=SourceModule,'D:\DATA\DELPHI\Shift 4\uHoliday.pas',0,1,1,1,1,0,0
 
 [Modules]
-Module0=D:\DATA\DELPHI\Shift 4\uChangeMark.pas
-Module1=D:\DATA\DELPHI\Shift 4\uSchedule.pas
-Module2=D:\DATA\DELPHI\Shift 4\Shift4.dpr
-Module3=D:\DATA\DELPHI\Shift 4\uNewSchedule.pas
-Module4=D:\DATA\DELPHI\Shift 4\uCalculateSchedule.pas
-Module5=D:\DATA\DELPHI\Shift 4\uScheduleList.pas
-Module6=D:\DATA\DELPHI\Shift 4\uMain.pas
-Module7=D:\DATA\DELPHI\Shift 4\uGetCode.pas
-Module8=D:\DATA\DELPHI\Shift 4\uFrameSchedule.pas
-Module9=D:\DATA\DELPHI\Shift 4\uMarkList.pas
-Module10=D:\DATA\DELPHI\Shift 4\uMarkInfo.pas
-Module11=D:\DATA\DELPHI\Common Files\DBConnect.pas
+Module0=D:\DATA\DELPHI\Shift 4\uScheduleList.pas
+Module1=D:\DATA\DELPHI\Shift 4\uFrameSchedule.pas
+Module2=D:\DATA\DELPHI\Shift 4\uMain.pas
+Module3=D:\DATA\DELPHI\Shift 4\uGetCode.pas
+Module4=D:\DATA\DELPHI\Shift 4\uMarkInfo.pas
+Module5=D:\DATA\DELPHI\Shift 4\uMarkList.pas
+Module6=D:\DATA\DELPHI\Shift 4\uCalculateSchedule.pas
+Module7=D:\DATA\DELPHI\Shift 4\uNewSchedule.pas
+Module8=D:\DATA\DELPHI\Shift 4\uSchedule.pas
+Module9=D:\DATA\DELPHI\Shift 4\uChangeMark.pas
+Module10=D:\DATA\DELPHI\Common Files\DBConnect.pas
+Module11=D:\DATA\DELPHI\Shift 4\Shift4.dpr
 Module12=D:\DATA\DELPHI\Shift 4\udmMain.pas
 Module13=D:\DATA\DELPHI\Shift 4\uPrintSchedule.pas
 Module14=D:\DATA\DELPHI\Shift 4\uDeptSchedule.pas
 Count=15
 EditWindowCount=1
 
-[D:\DATA\DELPHI\Shift 4\uChangeMark.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
-[D:\DATA\DELPHI\Shift 4\uSchedule.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
-[D:\DATA\DELPHI\Shift 4\Shift4.dpr]
-ModuleType=SourceModule
-FormState=0
-FormOnTop=0
-
-[D:\DATA\DELPHI\Shift 4\uNewSchedule.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
-[D:\DATA\DELPHI\Shift 4\uCalculateSchedule.pas]
-ModuleType=SourceModule
-FormState=1
-FormOnTop=0
-
 [D:\DATA\DELPHI\Shift 4\uScheduleList.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\DATA\DELPHI\Shift 4\uFrameSchedule.pas]
 ModuleType=SourceModule
 FormState=1
 FormOnTop=0
@@ -65,7 +46,7 @@ ModuleType=SourceModule
 FormState=1
 FormOnTop=0
 
-[D:\DATA\DELPHI\Shift 4\uFrameSchedule.pas]
+[D:\DATA\DELPHI\Shift 4\uMarkInfo.pas]
 ModuleType=SourceModule
 FormState=1
 FormOnTop=0
@@ -75,12 +56,32 @@ ModuleType=SourceModule
 FormState=1
 FormOnTop=0
 
-[D:\DATA\DELPHI\Shift 4\uMarkInfo.pas]
+[D:\DATA\DELPHI\Shift 4\uCalculateSchedule.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\DATA\DELPHI\Shift 4\uNewSchedule.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\DATA\DELPHI\Shift 4\uSchedule.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\DATA\DELPHI\Shift 4\uChangeMark.pas]
 ModuleType=SourceModule
 FormState=1
 FormOnTop=0
 
 [D:\DATA\DELPHI\Common Files\DBConnect.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\DATA\DELPHI\Shift 4\Shift4.dpr]
 ModuleType=SourceModule
 FormState=0
 FormOnTop=0
@@ -106,7 +107,7 @@ FormOnTop=0
 
 [EditWindow0]
 ViewCount=15
-CurrentView=8
+CurrentView=0
 View0=0
 View1=1
 View2=2
@@ -139,22 +140,22 @@ LeftPanelSize=140
 LeftPanelClients=CodeExplorer@EditWindow0
 LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
 RightPanelSize=0
-BottomPanelSize=0
+BottomPanelSize=333
 BottomPanelClients=MessageView@EditWindow0
-BottomPanelData=00000400010000000B0000004D6573736167655669657700000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
+BottomPanelData=000004000000000000000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
 
 [View0]
 Module=D:\DATA\DELPHI\Shift 4\uScheduleList.pas
-CursorX=7
-CursorY=202
-TopLine=177
+CursorX=1
+CursorY=631
+TopLine=629
 LeftCol=1
 
 [View1]
 Module=D:\DATA\DELPHI\Shift 4\uMain.pas
-CursorX=33
-CursorY=325
-TopLine=295
+CursorX=12
+CursorY=191
+TopLine=173
 LeftCol=1
 
 [View2]
@@ -166,15 +167,15 @@ LeftCol=1
 
 [View3]
 Module=D:\DATA\DELPHI\Shift 4\uFrameSchedule.pas
-CursorX=80
-CursorY=549
-TopLine=541
+CursorX=97
+CursorY=177
+TopLine=138
 LeftCol=1
 
 [View4]
 Module=D:\DATA\DELPHI\Shift 4\uMarkInfo.pas
-CursorX=47
-CursorY=351
+CursorX=42
+CursorY=344
 TopLine=342
 LeftCol=1
 
@@ -243,9 +244,9 @@ LeftCol=1
 
 [View14]
 Module=D:\DATA\DELPHI\Shift 4\uGetCode.pas
-CursorX=121
-CursorY=358
-TopLine=336
+CursorX=36
+CursorY=294
+TopLine=279
 LeftCol=1
 
 [Watches]
@@ -267,8 +268,8 @@ Left=0
 Top=0
 Width=1920
 Height=164
-MaxLeft=-8
-MaxTop=-8
+MaxLeft=-1
+MaxTop=-1
 MaxWidth=1936
 MaxHeight=164
 ClientWidth=1920
@@ -350,8 +351,8 @@ LRDockWidth=243
 Dockable=1
 SplitPos=104
 ArrangeBy=Name
-SelectedItem=Caption
-ExpandedItems=Anchors,Attributes,DataSet,DataSource,DataSource.DataSet,DataSource.DataSet.DBConnection,DBConnection,Font.Style,ListSettings,MenuAnimation,MenuItem,Options,PopupMenu,StateImages,Title,Title.Font,Title.Font.Style,Value
+SelectedItem=Font.Name
+ExpandedItems=Anchors,Attributes,DataSet,DataSource,DataSource.DataSet,DataSource.DataSet.DBConnection,DBConnection,Font,ListSettings,MenuAnimation,MenuItem,Options,PopupMenu,StateImages,Title,Title.Font,Title.Font.Style,Value
 HiddenCategories=
 
 [WatchWindow]
@@ -595,18 +596,18 @@ State=0
 Left=0
 Top=12
 Width=140
-Height=954
+Height=618
 MaxLeft=-1
 MaxTop=-1
 ClientWidth=140
-ClientHeight=954
+ClientHeight=618
 TBDockHeight=305
 LRDockWidth=140
 Dockable=1
 
 [MessageView@EditWindow0]
 Create=1
-Visible=0
+Visible=1
 State=0
 Left=12
 Top=0

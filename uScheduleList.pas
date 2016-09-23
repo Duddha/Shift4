@@ -636,12 +636,17 @@ begin
   if sItemYear >= sYear then begin
     Sender.Canvas.Font.Style := [];
     //Sender.Canvas.Font.Style := [fsBold];
-    if sItemYear > sYear then
+    if sItemYear > sYear then begin
       Sender.Canvas.Font.Color := clNavy;
+    end
+    else begin
+      Sender.Canvas.Font.Size := lstvSchedules.Font.Size + 1;
+    end;
   end
   else begin
     Sender.Canvas.Font.Style := [];
     Sender.Canvas.Font.Color := clGray;
+    Sender.Canvas.Font.Size := lstvSchedules.Font.Size;
   end;
   //Sender.Canvas.FillRect(Rect(Item.Left, Item.Top, Item.Left, Item.Top));
   if Item = nil then
