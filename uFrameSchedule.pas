@@ -174,7 +174,7 @@ begin
     strgrdScheduleTotal.FixedRows := 1;
     strgrdScheduleTotal.FixedCols := 1;
     grid3.Free;
-    pnlBottom.Height := strgrdScheduleTotal.DefaultRowHeight * strgrdScheduleTotal.RowCount + 12;
+    pnlBottom.Height := strgrdScheduleTotal.DefaultRowHeight * strgrdScheduleTotal.RowCount + 15;
     EnableControls;
   end;
 
@@ -283,6 +283,7 @@ begin
   if iStringGrid <> 2 then begin
     iStringGrid := 1;
     strgrdScheduleTime.Row := ARow;
+    strgrdScheduleTotal.Row := (ARow - strgrdSchedule.FixedRows) mod Trunc((strgrdSchedule.RowCount - strgrdSchedule.FixedRows) / 12) + strgrdScheduleTotal.FixedRows;
   end
   else
     iStringGrid := 0;

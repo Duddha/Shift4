@@ -296,7 +296,7 @@ begin
   end;
 
   CanCloseFrom := True;
-  ShowMessage('Выбран(ы) код(ы): ' + Codes2String(returnCode) + #10#13 + returnCode);
+  //ShowMessage('Выбран(ы) код(ы): ' + Codes2String(returnCode) + #10#13 + returnCode);
   Close;
 end;
 
